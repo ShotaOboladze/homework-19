@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #ECEAEA;
+    margin: 100px;
+}
+
+.div-1 {
+    width: 691px;
+    height: 825px;
+    border-radius: 15px;
+    margin-right: 47px;
+}
+
+.div-2 {
+    width: 692px;
+    height: 548px;
+    border-radius: 15px;
+    background: white;
+    font-family: 'PT Sans Caption';
+    position: relative;
+    padding-top: 150px;
+    margin-top: -520px;
+}
+
+.div-3 {
+    width: 305px;
+    height: 305px;
+    border-radius: 200px;
+    border: 10px solid white;
+    position: relative;
+    margin-top: -700px;
+    
+}
+
+strong {
+   font-size: 48px;
+   
+}
+
+h2 {
+    font-size: 36px;
+    margin-top: 2px;
+ 
+}
+
+p {
+    width: 426px;
+    font-size: 24px;
+}
+
+span {
+font-size: 14px;
+}
